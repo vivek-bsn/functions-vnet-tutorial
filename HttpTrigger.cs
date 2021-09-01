@@ -11,6 +11,7 @@ using System.Net.Http;
 
 namespace Company.Function
 {
+// Test Comment
     public static class HttpTrigger
     {
         [FunctionName("HttpTrigger")]
